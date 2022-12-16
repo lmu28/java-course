@@ -44,6 +44,8 @@ public class HashSetEx1 {
         employeesSet.add(employee5);
         System.out.println(employeesSet);
 
+        System.out.println("------");
+
 
 
 
